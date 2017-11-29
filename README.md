@@ -22,12 +22,12 @@ IOTA是一種適合做為IoT底層計量架構的分散式帳本技術，本Co-L
 <p align="center">
   <img src="https://github.com/twoss-io/IOTA-Co-Lab/blob/master/img/iota_intro1.png">
 </p>
-> Co-Lab 共同實踐 IOTA Tangle 專案
 
-##### 與社群交流及推廣活動
+#### 與社群交流及推廣活動
 <p align="center">
   <img src="https://github.com/twoss-io/IOTA-Co-Lab/blob/master/img/iota_intro2.png">
   <img src="https://github.com/twoss-io/IOTA-Co-Lab/blob/master/img/iota_intro3.png">
 </p>
+
 > 本Co-Lab成員包含我國Linux Kernel專家，成大黃敬群老師(jserv)，以及南星創速器朱宜振創辦人(Lman)。
 
