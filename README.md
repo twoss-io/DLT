@@ -23,8 +23,8 @@ IOTA是一種適合做為IoT底層計量架構的分散式帳本技術，本Co-L
   <img src="https://github.com/twoss-io/IOTA-Co-Lab/blob/master/img/iota_intro1.png">
 </p>
 
-#### 與社群交流及推廣活動
 <p align="center">
+  <h4>與社群交流及推廣活動</h4>
   <img src="https://github.com/twoss-io/IOTA-Co-Lab/blob/master/img/iota_intro2.png">
   <img src="https://github.com/twoss-io/IOTA-Co-Lab/blob/master/img/iota_intro3.png">
 </p>
