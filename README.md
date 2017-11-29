@@ -1,6 +1,5 @@
 # IOTA-Co-Lab
-   
-   
+</br></br>   
 ## WG1: 物聯網計量技術開發 
 
 #### 推動執行目標
@@ -20,12 +19,17 @@ IOTA是一種適合做為IoT底層計量架構的分散式帳本技術，本Co-L
 #### 具體產業效益
 * 解決目前IoT建構沒有合適的基礎以進行節點計量之議題，協助我國成為全球掌握IoT底層計量架構技術主要核心技術之國家。
 
- ![Co-Lab 共同實踐 IOTA Tangle 專案](https://github.com/twoss-io/IOTA-Co-Lab/blob/master/img/iota_intro1.png)
+<p align="center">
+  <img src="(https://github.com/twoss-io/IOTA-Co-Lab/blob/master/img/iota_intro1.png">
+</p>
 > Co-Lab 共同實踐 IOTA Tangle 專案
 
 ##### 與社群交流及推廣活動
-
- ![黃敬群老師(jserv)](https://github.com/twoss-io/IOTA-Co-Lab/blob/master/img/iota_intro2.png)
- ![朱宜振創辦人(Lman)](https://github.com/twoss-io/IOTA-Co-Lab/blob/master/img/iota_intro3.png)
+<p align="center">
+  <img src="(https://github.com/twoss-io/IOTA-Co-Lab/blob/master/img/iota_intro2.png">
+</p>
+<p align="center">
+  <img src="(https://github.com/twoss-io/IOTA-Co-Lab/blob/master/img/iota_intro3.png">
+</p>
 > 本Co-Lab成員包含我國Linux Kernel專家，成大黃敬群老師(jserv)，以及南星創速器朱宜振創辦人(Lman)。
 
