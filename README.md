@@ -30,3 +30,26 @@ IOTA是一種適合做為IoT底層計量架構的分散式帳本技術，本Co-L
 
 > 本Co-Lab成員包含我國Linux Kernel專家，成大黃敬群老師(jserv)，以及南星創速器朱宜振創辦人(Lman)。
 
+## WG2: LASS PM2.5開放資料
+
+#### 推動執行目標
+LASS PM2.5 是由民間社群自發地從Bottom up建置的一套環境感測網路系統具簡易安裝架構與資訊分享便利的特點，本WG整合IOTA分散式帳本技術於LASS中，協助改善資料大量快速增長的議題。
+
+#### 團隊工作分配
+
+* QNAP：2人
+ * 開發應用服務程式於NAS上
+ 
+* LASS社群：4人
+ * 設計開發PM2.5 API
+ 
+* 資策會團隊：1人
+ * 協助設計IOTA導入架構
+
+#### 具體產業效益
+* LASS PM2.5為已上線運作之開源專案，無時無刻都有資料產生導致傳統資料庫無法負荷，面臨節點彈性擴充問題，本WG導入IOTA技術解決巨資儲存問題(資料儲存去中心化)。
+
+<p align="center">
+  <img src="https://github.com/twoss-io/IOTA-Co-Lab/blob/master/img/iota_intro4.png">
+</p>
+
